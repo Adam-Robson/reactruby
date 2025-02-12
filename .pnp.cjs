@@ -35,7 +35,7 @@ const RAW_RUNTIME_STATE =
           ["bootstrap-icons", "npm:1.10.5"],\
           ["esbuild", "npm:0.24.2"],\
           ["nodemon", "npm:3.1.9"],\
-          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.1"],\
+          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.2"],\
           ["postcss", "npm:8.5.1"],\
           ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.1.0"],\
           ["react", "npm:19.0.0"],\
@@ -653,7 +653,7 @@ const RAW_RUNTIME_STATE =
           ["bootstrap-icons", "npm:1.10.5"],\
           ["esbuild", "npm:0.24.2"],\
           ["nodemon", "npm:3.1.9"],\
-          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.1"],\
+          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.2"],\
           ["postcss", "npm:8.5.1"],\
           ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.1.0"],\
           ["react", "npm:19.0.0"],\
@@ -1816,23 +1816,23 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["pg", [\
-      ["npm:8.13.1", {\
-        "packageLocation": "../../.yarn/berry/cache/pg-npm-8.13.1-33d27fb522-10c0.zip/node_modules/pg/",\
+      ["npm:8.13.2", {\
+        "packageLocation": "../../.yarn/berry/cache/pg-npm-8.13.2-c56958f019-10c0.zip/node_modules/pg/",\
         "packageDependencies": [\
-          ["pg", "npm:8.13.1"]\
+          ["pg", "npm:8.13.2"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.1", {\
-        "packageLocation": "./.yarn/__virtual__/pg-virtual-ace43d7da4/3/.yarn/berry/cache/pg-npm-8.13.1-33d27fb522-10c0.zip/node_modules/pg/",\
+      ["virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.2", {\
+        "packageLocation": "./.yarn/__virtual__/pg-virtual-ab8c8b6c87/3/.yarn/berry/cache/pg-npm-8.13.2-c56958f019-10c0.zip/node_modules/pg/",\
         "packageDependencies": [\
-          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.1"],\
+          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.2"],\
           ["@types/pg-native", null],\
           ["pg-cloudflare", "npm:1.1.1"],\
           ["pg-connection-string", "npm:2.7.0"],\
           ["pg-native", null],\
-          ["pg-pool", "virtual:ace43d7da47cb6a05e76f789ae8b3ef18450a09b568c7752befd5c8ffde97a79cd34390c508a0f765b3d64349d2a3829834737677ed2561e1780fa2553ad41a4#npm:3.7.0"],\
-          ["pg-protocol", "npm:1.7.0"],\
+          ["pg-pool", "virtual:ab8c8b6c87784e99b932fc31c205366c1a7dd80fe09f97c616bfc898b02bb3612299d638fa47b67212fd51e9b18c75cd83c973b03aed450bf49634b1df7d703a#npm:3.7.1"],\
+          ["pg-protocol", "npm:1.7.1"],\
           ["pg-types", "npm:2.2.0"],\
           ["pgpass", "npm:1.0.5"]\
         ],\
@@ -1871,19 +1871,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["pg-pool", [\
-      ["npm:3.7.0", {\
-        "packageLocation": "../../.yarn/berry/cache/pg-pool-npm-3.7.0-83f85e6be3-10c0.zip/node_modules/pg-pool/",\
+      ["npm:3.7.1", {\
+        "packageLocation": "../../.yarn/berry/cache/pg-pool-npm-3.7.1-cf4436a335-10c0.zip/node_modules/pg-pool/",\
         "packageDependencies": [\
-          ["pg-pool", "npm:3.7.0"]\
+          ["pg-pool", "npm:3.7.1"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:ace43d7da47cb6a05e76f789ae8b3ef18450a09b568c7752befd5c8ffde97a79cd34390c508a0f765b3d64349d2a3829834737677ed2561e1780fa2553ad41a4#npm:3.7.0", {\
-        "packageLocation": "./.yarn/__virtual__/pg-pool-virtual-29aa8e6f7a/3/.yarn/berry/cache/pg-pool-npm-3.7.0-83f85e6be3-10c0.zip/node_modules/pg-pool/",\
+      ["virtual:ab8c8b6c87784e99b932fc31c205366c1a7dd80fe09f97c616bfc898b02bb3612299d638fa47b67212fd51e9b18c75cd83c973b03aed450bf49634b1df7d703a#npm:3.7.1", {\
+        "packageLocation": "./.yarn/__virtual__/pg-pool-virtual-9680000021/3/.yarn/berry/cache/pg-pool-npm-3.7.1-cf4436a335-10c0.zip/node_modules/pg-pool/",\
         "packageDependencies": [\
-          ["pg-pool", "virtual:ace43d7da47cb6a05e76f789ae8b3ef18450a09b568c7752befd5c8ffde97a79cd34390c508a0f765b3d64349d2a3829834737677ed2561e1780fa2553ad41a4#npm:3.7.0"],\
+          ["pg-pool", "virtual:ab8c8b6c87784e99b932fc31c205366c1a7dd80fe09f97c616bfc898b02bb3612299d638fa47b67212fd51e9b18c75cd83c973b03aed450bf49634b1df7d703a#npm:3.7.1"],\
           ["@types/pg", null],\
-          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.1"]\
+          ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.13.2"]\
         ],\
         "packagePeers": [\
           "@types/pg",\
@@ -1893,10 +1893,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["pg-protocol", [\
-      ["npm:1.7.0", {\
-        "packageLocation": "../../.yarn/berry/cache/pg-protocol-npm-1.7.0-abf28e7ef1-10c0.zip/node_modules/pg-protocol/",\
+      ["npm:1.7.1", {\
+        "packageLocation": "../../.yarn/berry/cache/pg-protocol-npm-1.7.1-5571ffdced-10c0.zip/node_modules/pg-protocol/",\
         "packageDependencies": [\
-          ["pg-protocol", "npm:1.7.0"]\
+          ["pg-protocol", "npm:1.7.1"]\
         ],\
         "linkType": "HARD"\
       }]\
