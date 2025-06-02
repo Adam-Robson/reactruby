@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@popperjs/core", "npm:2.11.8"],\
           ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.20"],\
           ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.6"],\
-          ["bootstrap-icons", "npm:1.10.5"],\
+          ["bootstrap-icons", "npm:1.13.1"],\
           ["esbuild", "npm:0.25.1"],\
           ["nodemon", "npm:3.1.9"],\
           ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.16.0"],\
@@ -619,7 +619,7 @@ const RAW_RUNTIME_STATE =
           ["@popperjs/core", "npm:2.11.8"],\
           ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.20"],\
           ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.6"],\
-          ["bootstrap-icons", "npm:1.10.5"],\
+          ["bootstrap-icons", "npm:1.13.1"],\
           ["esbuild", "npm:0.25.1"],\
           ["nodemon", "npm:3.1.9"],\
           ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.16.0"],\
@@ -702,10 +702,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["bootstrap-icons", [\
-      ["npm:1.10.5", {\
-        "packageLocation": "../../.yarn/berry/cache/bootstrap-icons-npm-1.10.5-36f80ab074-10c0.zip/node_modules/bootstrap-icons/",\
+      ["npm:1.13.1", {\
+        "packageLocation": "../../.yarn/berry/cache/bootstrap-icons-npm-1.13.1-ea10677638-10c0.zip/node_modules/bootstrap-icons/",\
         "packageDependencies": [\
-          ["bootstrap-icons", "npm:1.10.5"]\
+          ["bootstrap-icons", "npm:1.13.1"]\
         ],\
         "linkType": "HARD"\
       }]\
