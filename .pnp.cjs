@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["esbuild", "npm:0.25.8"],\
             ["nodemon", "npm:3.1.9"],\
             ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.16.0"],\
-            ["postcss", "npm:8.5.3"],\
+            ["postcss", "npm:8.5.6"],\
             ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:11.0.1"],\
             ["react", "npm:19.0.0"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
@@ -633,7 +633,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["esbuild", "npm:0.25.8"],\
             ["nodemon", "npm:3.1.9"],\
             ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.16.0"],\
-            ["postcss", "npm:8.5.3"],\
+            ["postcss", "npm:8.5.6"],\
             ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:11.0.1"],\
             ["react", "npm:19.0.0"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
@@ -661,7 +661,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fraction.js", "npm:4.3.7"],\
             ["normalize-range", "npm:0.1.2"],\
             ["picocolors", "npm:1.1.1"],\
-            ["postcss", "npm:8.5.3"],\
+            ["postcss", "npm:8.5.6"],\
             ["postcss-value-parser", "npm:4.2.0"]\
           ],\
           "packagePeers": [\
@@ -1593,10 +1593,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["nanoid", [\
-        ["npm:3.3.8", {\
-          "packageLocation": "./.yarn/cache/nanoid-npm-3.3.8-d22226208b-dfe0adbc0c.zip/node_modules/nanoid/",\
+        ["npm:3.3.11", {\
+          "packageLocation": "./.yarn/cache/nanoid-npm-3.3.11-f98c1f9ef6-3be20d8866.zip/node_modules/nanoid/",\
           "packageDependencies": [\
-            ["nanoid", "npm:3.3.8"]\
+            ["nanoid", "npm:3.3.11"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1885,11 +1885,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["postcss", [\
-        ["npm:8.5.3", {\
-          "packageLocation": "./.yarn/cache/postcss-npm-8.5.3-37174aa03d-da574620eb.zip/node_modules/postcss/",\
+        ["npm:8.5.6", {\
+          "packageLocation": "./.yarn/cache/postcss-npm-8.5.6-e7f126c6f3-20f3b5d673.zip/node_modules/postcss/",\
           "packageDependencies": [\
-            ["postcss", "npm:8.5.3"],\
-            ["nanoid", "npm:3.3.8"],\
+            ["postcss", "npm:8.5.6"],\
+            ["nanoid", "npm:3.3.11"],\
             ["picocolors", "npm:1.1.1"],\
             ["source-map-js", "npm:1.2.1"]\
           ],\
@@ -1913,7 +1913,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dependency-graph", "npm:1.0.0"],\
             ["fs-extra", "npm:11.1.1"],\
             ["picocolors", "npm:1.0.0"],\
-            ["postcss", "npm:8.5.3"],\
+            ["postcss", "npm:8.5.6"],\
             ["postcss-load-config", "virtual:91c9d6288623ca083b62f7f26ad2d25de74a4e43bb9a2cabae43486a864ee0f3e526a04682fe23011a6921065a9f044dbee072b07c4429f0dd1fd3dd61439634#npm:5.1.0"],\
             ["postcss-reporter", "virtual:91c9d6288623ca083b62f7f26ad2d25de74a4e43bb9a2cabae43486a864ee0f3e526a04682fe23011a6921065a9f044dbee072b07c4429f0dd1fd3dd61439634#npm:7.0.5"],\
             ["pretty-hrtime", "npm:1.0.3"],\
@@ -1946,7 +1946,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/tsx", null],\
             ["jiti", null],\
             ["lilconfig", "npm:3.1.3"],\
-            ["postcss", "npm:8.5.3"],\
+            ["postcss", "npm:8.5.6"],\
             ["tsx", null],\
             ["yaml", "npm:2.7.0"]\
           ],\
@@ -1975,7 +1975,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss-reporter", "virtual:91c9d6288623ca083b62f7f26ad2d25de74a4e43bb9a2cabae43486a864ee0f3e526a04682fe23011a6921065a9f044dbee072b07c4429f0dd1fd3dd61439634#npm:7.0.5"],\
             ["@types/postcss", null],\
             ["picocolors", "npm:1.0.0"],\
-            ["postcss", "npm:8.5.3"],\
+            ["postcss", "npm:8.5.6"],\
             ["thenby", "npm:1.3.4"]\
           ],\
           "packagePeers": [\
