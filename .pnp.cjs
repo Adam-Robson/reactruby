@@ -29,7 +29,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@hotwired/stimulus", "npm:3.2.2"],\
-            ["@hotwired/turbo-rails", "npm:8.0.13"],\
+            ["@hotwired/turbo-rails", "npm:8.0.16"],\
             ["@popperjs/core", "npm:2.11.8"],\
             ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.20"],\
             ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.6"],\
@@ -300,12 +300,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@hotwired/turbo-rails", [\
-        ["npm:8.0.13", {\
-          "packageLocation": "./.yarn/cache/@hotwired-turbo-rails-npm-8.0.13-799482f0b1-6039c83fb8.zip/node_modules/@hotwired/turbo-rails/",\
+        ["npm:8.0.16", {\
+          "packageLocation": "./.yarn/cache/@hotwired-turbo-rails-npm-8.0.16-ce2025e187-f75eff223b.zip/node_modules/@hotwired/turbo-rails/",\
           "packageDependencies": [\
-            ["@hotwired/turbo-rails", "npm:8.0.13"],\
+            ["@hotwired/turbo-rails", "npm:8.0.16"],\
             ["@hotwired/turbo", "npm:8.0.13"],\
-            ["@rails/actioncable", "npm:7.0.7"]\
+            ["@rails/actioncable", "npm:8.0.201"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -521,10 +521,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@rails/actioncable", [\
-        ["npm:7.0.7", {\
-          "packageLocation": "./.yarn/cache/@rails-actioncable-npm-7.0.7-bb3e93d5cb-c0e71b7153.zip/node_modules/@rails/actioncable/",\
+        ["npm:8.0.201", {\
+          "packageLocation": "./.yarn/cache/@rails-actioncable-npm-8.0.201-5f0b8ac1ad-cb44de07c5.zip/node_modules/@rails/actioncable/",\
           "packageDependencies": [\
-            ["@rails/actioncable", "npm:7.0.7"]\
+            ["@rails/actioncable", "npm:8.0.201"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -625,7 +625,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["app", "workspace:."],\
             ["@hotwired/stimulus", "npm:3.2.2"],\
-            ["@hotwired/turbo-rails", "npm:8.0.13"],\
+            ["@hotwired/turbo-rails", "npm:8.0.16"],\
             ["@popperjs/core", "npm:2.11.8"],\
             ["autoprefixer", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:10.4.20"],\
             ["bootstrap", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:5.3.6"],\
