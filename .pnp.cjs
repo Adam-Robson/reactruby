@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:19.0.0"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
             ["react-router-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:7.5.0"],\
-            ["sass", "npm:1.88.0"]\
+            ["sass", "npm:1.90.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -638,7 +638,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:19.0.0"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
             ["react-router-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:7.5.0"],\
-            ["sass", "npm:1.88.0"]\
+            ["sass", "npm:1.90.0"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -2213,10 +2213,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["sass", [\
-        ["npm:1.88.0", {\
-          "packageLocation": "./.yarn/cache/sass-npm-1.88.0-ab12725694-290a2797d2.zip/node_modules/sass/",\
+        ["npm:1.90.0", {\
+          "packageLocation": "./.yarn/cache/sass-npm-1.90.0-50f57f9a39-1f2ad353eb.zip/node_modules/sass/",\
           "packageDependencies": [\
-            ["sass", "npm:1.88.0"],\
+            ["sass", "npm:1.90.0"],\
             ["@parcel/watcher", "npm:2.5.0"],\
             ["chokidar", "npm:4.0.1"],\
             ["immutable", "npm:5.0.2"],\
