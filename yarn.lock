@@ -412,13 +412,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/cookie@npm:^0.6.0":
-  version: 0.6.0
-  resolution: "@types/cookie@npm:0.6.0"
-  checksum: 5edce7995775b0b196b142883e4d4f71fd93c294eaec973670f1fa2540b70ea7390408ed513ddefef5fcb12a578100c76596e8f2a714b0c2ae9f70ee773f4510
-  languageName: node
-  linkType: hard
-
 "abbrev@npm:1":
   version: 1.1.1
   resolution: "abbrev@npm:1.1.1"
@@ -509,7 +502,7 @@ __metadata:
     postcss-cli: ^11.0.1
     react: ^19.0.0
     react-dom: ^19.1.1
-    react-router-dom: ^7.5.0
+    react-router-dom: ^7.9.2
     sass: ^1.92.0
   languageName: unknown
   linkType: soft
@@ -1789,33 +1782,31 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-router-dom@npm:^7.5.0":
-  version: 7.5.0
-  resolution: "react-router-dom@npm:7.5.0"
+"react-router-dom@npm:^7.9.2":
+  version: 7.9.2
+  resolution: "react-router-dom@npm:7.9.2"
   dependencies:
-    react-router: "npm:7.5.0"
+    react-router: 7.9.2
   peerDependencies:
     react: ">=18"
     react-dom: ">=18"
-  checksum: a03cc9eddc330e44a370f8e647a8a3daaa325d77283fa8fa7474e02a4fd673bf589a18acb78eb098c474dd1949e1f279830bf8184f20df057a1e06496f3743ae
+  checksum: d40c7c7c474bd2ebf2e0dbd149676e3667332729788b28e29f31624df6d76a14e80438a9ee72ccce15246d902c30867c9cd0e2fec478ee406f64c8e69005b76f
   languageName: node
   linkType: hard
 
-"react-router@npm:7.5.0":
-  version: 7.5.0
-  resolution: "react-router@npm:7.5.0"
+"react-router@npm:7.9.2":
+  version: 7.9.2
+  resolution: "react-router@npm:7.9.2"
   dependencies:
-    "@types/cookie": "npm:^0.6.0"
-    cookie: "npm:^1.0.1"
-    set-cookie-parser: "npm:^2.6.0"
-    turbo-stream: "npm:2.4.0"
+    cookie: ^1.0.1
+    set-cookie-parser: ^2.6.0
   peerDependencies:
     react: ">=18"
     react-dom: ">=18"
   peerDependenciesMeta:
     react-dom:
       optional: true
-  checksum: 475ce0ad1be1ab8e1278e59640de711c6f9cae55b0f68f384ce0314ff3f9ff719c1baec591852183617e5efffc0f7825febbb0084eb84c2f096e3a732170e534
+  checksum: 6548b670a67cdee016f7a72ac7b649699e53828a1ce3e0e05853430a5a302c4b9ffcc80240e0b05211e1e44a3b563d470f1df6aa5f2b2a1dabe1255b9cd338e1
   languageName: node
   linkType: hard
 
@@ -2108,13 +2099,6 @@ __metadata:
   bin:
     nodetouch: ./bin/nodetouch.js
   checksum: e0be589cb5b0e6dbfce6e7e077d4a0d5f0aba558ef769c6d9c33f635e00d73d5be49da6f8631db302ee073919d82b5b7f56da2987feb28765c95a7673af68647
-  languageName: node
-  linkType: hard
-
-"turbo-stream@npm:2.4.0":
-  version: 2.4.0
-  resolution: "turbo-stream@npm:2.4.0"
-  checksum: e36f52ed40589f01bede79757a143bef484914d579927235be1fd0c205618994cb5779a39ff8c2a80a87a1464d05771cd75320a9412b15bca03c7ff432e3cdf7
   languageName: node
   linkType: hard
 
