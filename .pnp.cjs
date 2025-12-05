@@ -39,7 +39,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.16.0"],\
             ["postcss", "npm:8.5.6"],\
             ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:11.0.1"],\
-            ["react", "npm:19.2.0"],\
+            ["react", "npm:19.2.1"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
             ["react-router-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:7.9.4"],\
             ["sass", "npm:1.92.0"]\
@@ -626,7 +626,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["pg", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:8.16.0"],\
             ["postcss", "npm:8.5.6"],\
             ["postcss-cli", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:11.0.1"],\
-            ["react", "npm:19.2.0"],\
+            ["react", "npm:19.2.1"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
             ["react-router-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:7.9.4"],\
             ["sass", "npm:1.92.0"]\
@@ -2061,10 +2061,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["react", [\
-        ["npm:19.2.0", {\
-          "packageLocation": "./.yarn/cache/react-npm-19.2.0-34cec3b246-33dd01bf69.zip/node_modules/react/",\
+        ["npm:19.2.1", {\
+          "packageLocation": "./.yarn/cache/react-npm-19.2.1-ee2feff9fc-9b32ace5c5.zip/node_modules/react/",\
           "packageDependencies": [\
-            ["react", "npm:19.2.0"]\
+            ["react", "npm:19.2.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2082,7 +2082,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
             ["@types/react", null],\
-            ["react", "npm:19.2.0"],\
+            ["react", "npm:19.2.1"],\
             ["scheduler", "npm:0.26.0"]\
           ],\
           "packagePeers": [\
@@ -2107,7 +2107,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", null],\
             ["@types/react-dom", null],\
             ["cookie", "npm:1.0.2"],\
-            ["react", "npm:19.2.0"],\
+            ["react", "npm:19.2.1"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
             ["set-cookie-parser", "npm:2.7.1"]\
           ],\
@@ -2134,7 +2134,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-router-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:7.9.4"],\
             ["@types/react", null],\
             ["@types/react-dom", null],\
-            ["react", "npm:19.2.0"],\
+            ["react", "npm:19.2.1"],\
             ["react-dom", "virtual:0460f86c7587ee75dac643681550c044e8047ba46e219a5baac054fc0fea2d0af97a9bd3fe4b22de0884797215e0a1a4368bb60f9ef7087a69c4008789f4e032#npm:19.1.1"],\
             ["react-router", "virtual:a4e07cf563b380df8c157c3047bdf432c5d938d441364e639d9f87b75d0ca3c71527234ada89360a5c8148fcfd71a71e677a7694ff447d7019ae5a977fd51112#npm:7.9.4"]\
           ],\
